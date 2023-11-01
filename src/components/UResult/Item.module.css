@@ -1,0 +1,8 @@
+.item_container{
+  padding: 0.25rem;
+}
+
+.item{
+  border: 1px solid #1E679A;
+  padding: 0rem 0rem 0rem 0.5rem;
+}
